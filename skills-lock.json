@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "build-mcp-server": {
+      "source": "anthropics/claude-plugins-official",
+      "sourceType": "github",
+      "skillPath": "plugins/mcp-server-dev/skills/build-mcp-server/SKILL.md",
+      "computedHash": "9bf9f8ce713a3fc26f4bb3af09321626638b91f379bb3a15d5e809cc771e8a12"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mcp-builder/SKILL.md",
+      "computedHash": "6498a736a8dc5c645047c8a875b8ea7417e2ad97146f005200e50d20a9337ada"
+    }
+  }
+}
